@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+statsmodels
+yfinance
+requests
+vaderSentiment
+transformers
+torch
+datasets
+accelerate
+pytest
